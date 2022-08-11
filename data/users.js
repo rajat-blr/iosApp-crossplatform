@@ -2,7 +2,7 @@ export const USERS =[
     {
         user: '_rajatvarma',
         image:
-        '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2241.HEIC'
+        '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2321.heic'
     },
     {
         user: 'katilkabootar',
@@ -12,7 +12,7 @@ export const USERS =[
     {
         user: '_pranayvarma',
         image:
-        '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2234.HEIC'
+        '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2318.HEIC'
     },
     {
         user: '_rahulshah',
