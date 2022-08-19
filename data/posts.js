@@ -2,7 +2,7 @@ import { USERS } from "./users";
 
 export const POSTS = [
     {
-    image: '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2329.HEIC',
+    imageUrl: '/Users/rajatvarma/Desktop/cloneproj/assets/IMG_2329.HEIC',
     user: USERS[0].user,
     likes:7899,
     caption: 'Turban Tadka🥸 😝 ',
@@ -20,7 +20,7 @@ export const POSTS = [
     ]
     },
     {
-        image: '/Users/rajatvarma/Desktop/cloneproj/assets/setup.jpeg',
+        imageUrl: '/Users/rajatvarma/Desktop/cloneproj/assets/setup.jpeg',
         user: USERS[1].user,
         likes: 4578,
         caption: 'SDE-1 FlipKart - Journey Begins🔥🔥',
