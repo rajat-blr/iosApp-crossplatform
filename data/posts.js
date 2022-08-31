@@ -21,10 +21,10 @@ export const POSTS = [
     },
     {
         imageUrl: '/Users/rajatvarma/Desktop/cloneproj/assets/setup.jpeg',
-        user: USERS[1].user,
+        user: USERS[0].user,
         likes: 4578,
         caption: 'SDE-1 FlipKart - Journey Begins🔥🔥',
-        profile_picture: USERS[1].image,
+        profile_picture: USERS[0].image,
         comments:[
             {
                 user:'katilkabootar',
